@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MiAppReactToDo/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/MiAppReactToDo/static/js/main.b0a97995.chunk.js",
+    "main.js.map": "/MiAppReactToDo/static/js/main.b0a97995.chunk.js.map",
+    "runtime-main.js": "/MiAppReactToDo/static/js/runtime-main.09823812.js",
+    "runtime-main.js.map": "/MiAppReactToDo/static/js/runtime-main.09823812.js.map",
+    "static/js/2.dfce1fec.chunk.js": "/MiAppReactToDo/static/js/2.dfce1fec.chunk.js",
+    "static/js/2.dfce1fec.chunk.js.map": "/MiAppReactToDo/static/js/2.dfce1fec.chunk.js.map",
+    "static/js/3.56d76abd.chunk.js": "/MiAppReactToDo/static/js/3.56d76abd.chunk.js",
+    "static/js/3.56d76abd.chunk.js.map": "/MiAppReactToDo/static/js/3.56d76abd.chunk.js.map",
+    "index.html": "/MiAppReactToDo/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/MiAppReactToDo/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.dfce1fec.chunk.js.LICENSE.txt": "/MiAppReactToDo/static/js/2.dfce1fec.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/MiAppReactToDo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09823812.js",
+    "static/js/2.dfce1fec.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.b0a97995.chunk.js"
+  ]
+}
